@@ -1,5 +1,8 @@
-# PROC39-1_4-actividad-alumno1
-## Plantilla de la actividad del alumno 1 para la clase 39 nivel PRO 1:4.
-### Nombre en ingles: C37-SpeedRacer_ReferenceCode
+# PROC41-1_4-referencia-maestra1
+## Referencia de la maestra 1 para la clase 41 nivel PRO 1-4.
+Solución de la actividad (cámara de juego).
 
-Etapa 3. Etapa final.
+### Nombre en inglés: Multiplayer-stage-5-final
+C37-SpeedRacer_ReferenceCode
+
+Fin de Etapa 5. 
